@@ -58,14 +58,14 @@ Features](https://www.cs.cmu.edu/~efros/courses/LBMV07/Papers/viola-cvpr-01.pdf)
 
 ## Files ##
 
-### face_detection.py ### 
-`This python script contains all the logic for the application`
+### [face_detection.py](https://github.com/1andre-santos1/Face-Detection/blob/master/face_detection.py) ### 
+`This python script contains all the logic for the application.`
 
-### haarcascade_frontalface_default.xml ###
-`This xml file contains all the information needed to identify a frontal face`
+### [haarcascade_frontalface_default.xml](https://github.com/1andre-santos1/Face-Detection/blob/master/haarcascade_frontalface_default.xml) ###
+`This xml file contains all the information needed to identify a frontal face.`
 
-### app.rar ###
+### [app.rar](https://github.com/1andre-santos1/Face-Detection/blob/master/app.rar) ###
 `This rar file contains the application. It was made with pyinstaller from the face_detection script. Download, extract and run the executable inside the folder, and you can start having fun detecting faces!`
 
-### README.md ###
+### [README.md](https://github.com/1andre-santos1/Face-Detection/blob/master/README.md) ###
 `Used to show you this text.`
