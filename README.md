@@ -44,7 +44,7 @@ Face Detection
 </p>
 
 ## See More ##
-<i>If you want to learn in depth all the processes behind this you can take a look at the papers below.</i>
+`If you want to learn in depth all the processes behind this you can take a look at the papers below.`
 
 [Rapid Object Detection Using a Boosted Cascade of Simple
 Features](https://www.cs.cmu.edu/~efros/courses/LBMV07/Papers/viola-cvpr-01.pdf)
