@@ -70,3 +70,12 @@ Features](https://www.cs.cmu.edu/~efros/courses/LBMV07/Papers/viola-cvpr-01.pdf)
 
 ### [README.md](https://github.com/1andre-santos1/Face-Detection/blob/master/README.md) ###
 `Used to show you this text.`
+
+## Instructions ##
+
+! ` When you run the executable a window will pop up accessing your webcam and your face should be detected by the app. `
+
+! ` Press the 'e' key on your keyboard to exit the application `
+
+! ` If you're having problems detecting your face try lighten the scene around you or assume a more frontal position towards the webcam `
+
