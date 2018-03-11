@@ -46,10 +46,10 @@ Face Detection
 ## See More ##
 <i>If you want to learn in depth all the processes behind this you can take a look at the papers below.</i>
 
-[Rapid Object Detection using a Boosted Cascade of Simple
+[Rapid Object Detection Using a Boosted Cascade of Simple
 Features](https://www.cs.cmu.edu/~efros/courses/LBMV07/Papers/viola-cvpr-01.pdf)
 
-[A general framework for object detection](http://ieeexplore.ieee.org/document/710772/)
+[A General Framework For Object Detection](http://ieeexplore.ieee.org/document/710772/)
 
 [Boosting Image Retrieval](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.136.2419&rep=rep1&type=pdf)
 
