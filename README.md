@@ -62,7 +62,7 @@ Features](https://www.cs.cmu.edu/~efros/courses/LBMV07/Papers/viola-cvpr-01.pdf)
 `This python script contains all the logic for the application.`
 
 ### [haarcascade_frontalface_default.xml](https://github.com/1andre-santos1/Face-Detection/blob/master/haarcascade_frontalface_default.xml) ###
-`This xml file contains all the information needed to identify a frontal face. The file was not created by me, you can see the repository where the original file resides in the link below.`
+`This xml file contains all the information needed to identify a frontal face. The file was not created by me, you can see the repository where the original file resides in the link on the right:`
 [haarcascade_frontalface_default.xml](https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml)
 
 ### [app.rar](https://github.com/1andre-santos1/Face-Detection/blob/master/app.rar) ###
