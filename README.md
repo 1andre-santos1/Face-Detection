@@ -1,8 +1,44 @@
 Face Detection
 ===
+
 <p align="center">
 <img src="https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb" width="120" height="100" /><img src="https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb" width="120" height="100" /><img src="https://images.pexels.com/photos/428341/pexels-photo-428341.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb" width="120" height="100" /><img src="https://images.pexels.com/photos/542282/pexels-photo-542282.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb"  width="120" height="100" />
 </p>
 <p align="center">
 <img src="https://images.pexels.com/photos/428331/pexels-photo-428331.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb" width="110" height="90" /><img src="https://images.pexels.com/photos/355164/pexels-photo-355164.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb" width="110" height="90" /><img src="https://images.pexels.com/photos/762020/pexels-photo-762020.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb" width="110" height="90" /><img src="https://images.pexels.com/photos/831993/pexels-photo-831993.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb" width="110" height="90" />
+</p>
+
+## How It's Made ##
+
+### Get An Image ###
+<p align="center">
+  <img src="https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb" width="200" height="180" />
+</p>
+<p align="left">
+ <b><i>This step is pretty straightforward. 
+   Here in this application however, the image will be every frame recorded by the webcam.</i></b>
+</p>
+
+### Convert The Colored Image Into Grayscale ###
+<p align="center">
+  <img src="https://image.ibb.co/h0YYOS/68747470733a2f2f696d616765732e706578656c732e636f6d2f70686f746f732f3631343831302f706578656c732d70686f746f2d3631343831302e6a7065673f773d3132363026683d373530266175746f3d636f6d70726573732663733d74696e7973726762.jpg" width="200" height="180" />
+</p>
+<p align="left">
+ <b><i>Given the fact that our search for face features will be based on the black and white contrast between the pixels, we need to convert the original colored image into a gray one.</i></b>
+</p>
+
+### Shrink The Image ###
+<p align="center">
+  <img src="https://image.ibb.co/h0YYOS/68747470733a2f2f696d616765732e706578656c732e636f6d2f70686f746f732f3631343831302f706578656c732d70686f746f2d3631343831302e6a7065673f773d3132363026683d373530266175746f3d636f6d70726573732663733d74696e7973726762.jpg" width="100" height="90" />
+</p>
+<p align="left">
+ <b><i>With a smaller image we can search efficiently, at a faster rate, the pixels for the face features. Based on the fact that we will be taking on real time the frames from the webcam, we will need to be sure to take time has an useful resource.</i></b>
+</p>
+
+### Detect The Face ###
+<p align="center">
+  <img src="https://image.ibb.co/c7qzV7/68747470733a2f2f696d616765732e706578656c732e636f6d2f70686f746f732f3631343831302f706578656c732d70686f746f2d3631343831302e6a7065673f773d3132363026683d373530266175746f3d636f6d70726573732663733d74696e7973726762.jpg" width="100" height="90" />
+</p>
+<p align="left">
+ <b><i>In this step the search for the face features will begin on the frame and in some way it will be used. In this application, when a face is encountered in a frame, a box will be drawn indicating it's presence.</i></b>
 </p>
