@@ -77,5 +77,5 @@ Features](https://www.cs.cmu.edu/~efros/courses/LBMV07/Papers/viola-cvpr-01.pdf)
 
 ! ` Press the 'e' key on your keyboard to exit the application `
 
-! ` If you're having problems detecting your face try lighten the scene around you or assume a more frontal position towards the webcam `
+! ` If you're having problems detecting your face try lighten up the scene around you or assume a more frontal position towards the webcam `
 
