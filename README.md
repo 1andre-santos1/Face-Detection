@@ -73,9 +73,9 @@ Features](https://www.cs.cmu.edu/~efros/courses/LBMV07/Papers/viola-cvpr-01.pdf)
 
 ## Instructions ##
 
-! ` When you run the executable a window will pop up accessing your webcam and your face should be detected by the app. `
+:exclamation: ` When you run the executable a window will pop up accessing your webcam and your face should be detected by the app. `
 
-! ` Press the 'e' key on your keyboard to exit the application `
+:exclamation: ` Press the 'e' key on your keyboard to exit the application `
 
-! ` If you're having problems detecting your face try lighten up the scene around you or assume a more frontal position towards the webcam `
+:exclamation: ` If you're having problems detecting your face try lighten up the scene around you or assume a more frontal position towards the webcam `
 
